@@ -1,0 +1,7 @@
+{
+  "host": "https://dbc-257849f8-53b6.cloud.databricks.com/",
+  "authType": "databricks-cli",
+  "databricksPath": "/Users/ambarish.dongaonkar/.vscode/extensions/databricks.databricks-1.2.7-darwin-arm64/bin/databricks",
+  "clusterId": "1101-200258-yjc2dboc",
+  "workspacePath": "/Users/adcloudstorage2@gmail.com/.ide/ad_demo-34e8f7fd"
+}
