@@ -1,0 +1,60 @@
+ad-aws-dev-bucket1
+ad_aws_dev_bucket1_role
+arn:aws:iam::847885158289:role/ad_aws_dev_bucket1_role
+ad_demo_dev_catalog
+
+ad-aws-qa-bucket1
+ad_aws_qa_bucket1_role
+arn:aws:iam::847885158289:role/ad_aws_qa_bucket1_role
+ad_demo_qa_catalog
+
+ad-aws-prod-bucket1
+ad_aws_prod_bucket1_role
+arn:aws:iam::847885158289:role/ad_aws_prod_bucket1_role
+ad_demo_prod_catalog
+
+ad-aws-prod-partner1-bucket1
+ad_aws_prod_partner1_bucket1_role
+arn:aws:iam::847885158289:role/ad_aws_prod_partner1_bucket1_role
+ad_demo_partner1_catalog
+
+Databricks redirect URL
+https://accounts.cloud.databricks.com/oidc/consume
+
+Application (client) ID
+d6bf0e47-ab39-4a93-b401-01767aad7fe3
+
+OpenID Connect metadata document
+https://login.microsoftonline.com/d28e0a92-df8e-4a37-ab43-461c22144a25/v2.0/.well-known/openid-configuration
+
+secret 
+value
+bVG8Q~QfHUkWbOsVlzRPGjeLaMh12FN43IiLEcbM
+ID
+c6961f4f-9832-412a-a636-a4714a6579e9
+
+
+SCIM Token
+dsapi6eefecb2264013444a24366e678f0b27
+
+Account SCIM URL
+https://accounts.cloud.databricks.com/api/2.0/accounts/447fb1dc-6a47-4423-aac6-5049ab677eca/scim/v2
+
+
+addeveloper241@gmail.com
+
+developer1@adongaonkargmail.onmicrosoft.com
+Momo3482
+Hocu628609
+
+tester1@adongaonkargmail.onmicrosoft.com
+Hocu628609
+
+produser1@adongaonkargmail.onmicrosoft.com
+Kupo697252
+
+partner1@adongaonkargmail.onmicrosoft.com
+Caja084770
+
+
+
