@@ -49,3 +49,4 @@ collection="collection1"
 df.write.format("mongo").option("spark.mongodb.output.uri", connectionString).option("database",database).option("collection","filteredSales").mode("append").save()
 
 
+#need to install mongo spark package on single user cluster 
